@@ -1,0 +1,90 @@
+1;L'Italia;L'Italia;
+2;La bambina;'A piccerella;
+3;La gatta;'A jatta;
+4;Il maiale;'O puorco;
+5;La mano;'A mano;
+6;Quella che guarda verso terra;Chella ca guarda 'nterra;l'organo sessuale femminile
+7;Il vaso di creta;'O vasetto;
+8;La Madonna;'A Maronna;
+9;La figliolanza;'A figliata;
+10;I fagioli;'E fasule;
+11;I topolini;'E suricille;
+12;Il soldato;'O surdato;
+13;Sant'Antonio;Sant'Antonio;giorno dedicato al santo nel Calendario dei santi
+14;L'ubriaco;'O mbriaco;
+15;Il ragazzo;'O guaglione;
+16;Il culo;'O culo;
+17;La sfortuna;'A disgrazia;
+18;Il sangue;'O ssanghe;
+19;La risata;'A resata;
+20;La festa;'A festa;
+21;La donna nuda;'A femmena annuda;
+22;Il pazzo;'O pazzo;
+23;Lo scemo;'O scemo;
+24;Le guardie;'E Gguardie;
+25;Natale;Natale;
+26;La piccola Anna;Nanninella;giorno dedicato alla santa nel Calendario dei santi
+27;Il pitale;'O càntaro;
+28;I seni;'E zzizze;
+29;Il padre dei bambini;'O pate de ccriature;l'organo sessuale maschile
+30;Le palle del tenente;'E ppalle do tenente;
+31;Il padrone di casa;'O patrone 'e casa;
+32;Il capitone;'O capitone;
+33;Gli anni di Cristo;Ll'anne 'e Cristo;
+34;La testa;'A capa;
+35;L'uccellino;Ll'aucielluzzo;
+36;Le nacchere;'E ccastagnelle;
+37;Il monaco;'O monaco;
+38;Le botte;'E mmazzate;
+39;Il cappio al collo;'A fune 'nganna;
+40;La noia;'A noja;
+41;Il coltello;'O curtiello;
+42;Il caffe`;'O ccafe`;
+43;La donna al balcone;Onna pereta fore ô barcone;donna sguaiata/impicciona che si espone al balcone
+44;La prigione;'E ccancelle;
+45;Il vino buono;'O vino bbuono;
+46;Il denaro;'E denare;
+47;Il morto;'O muorto;
+48;Il morto che parla;'O muorto che pparla;
+49;La carne;'O piezzo 'e carne;
+50;Il pane;'O ppane;
+51;Il giardino;'O ciardino;
+52;La mamma;'A mamma;
+53;Il vecchio;'O viecchio;
+54;Il cappello;'O cappiello;
+55;La musica;'A museca;
+56;La caduta;'A caduta;
+57;Il gobbo;'O scartellato;
+58;Il pacco;'O paccotto;
+59;I peli;'E pile;
+60;Il lamento;'O lamiento;oppure anche "colui/colei che si lamenta" ("chi se lamienta")
+61;Il cacciatore;'O cacciatore;
+62;Il morto ammazzato;'O muorto acciso;
+63;La sposa;'A sposa;
+64;La marsina;'A sciammerìa;
+65;Il pianto;'O chianto;
+66;Le due zitelle;'E ddoje zetelle;
+67;Il totano nella chitarra;'O totaro dint'â chitarra;riferimento all'atto sessuale
+68;La zuppa cotta;'A zuppa cotta;
+69;Sottosopra;sott'e 'ncoppa;
+70;Il palazzo;'O palazzo;
+71;L'uomo di merda;L'ommo 'e mmerda;una persona malvagia o riprovevole
+72;Lo stupore;'A maraviglia;
+73;L'ospedale;'O spitale;
+74;La grotta;'A grotta;
+75;Pulcinella;Pulecenella;
+76;La fontana;'A funtana;
+77;I diavoli;'E diavulille;
+78;La bella figliola;'A bbella figliola;una prostituta
+79;Il ladro;'O mariuolo;
+80;La bocca;'A vocca;
+81;I fiori;'E sciure;
+82;La tavola imbandita;'A tavula 'mbandita;
+83;Il maltempo;'O maletiempo;
+84;La chiesa;'A chiesa;
+85;Le anime del Purgatorio;Ll'aneme do priatorio;
+86;La bottega;'A puteca;
+87;I pidocchi;'E perucchie;
+88;I caciocavalli;'E casecavalle;
+89;La vecchia;'A vecchia;
+90;La paura;'A paura
